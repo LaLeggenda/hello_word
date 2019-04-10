@@ -1,2 +1,2 @@
 # hello_word
-first repository
+my first repository
